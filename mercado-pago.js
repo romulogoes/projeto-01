@@ -1,2 +1,3 @@
-let nome = "Mercado Pago"
-console.log(nome)
+const m = "Mercado Pago"
+const d = "Devedor"
+console.log(m, d)
